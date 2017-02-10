@@ -1,0 +1,8 @@
+git add .
+git commit -m "Julen 23:49"
+git push origin master
+
+
+git checkout -b rama_x
+git checkout master		#vuelve a la rama principal
+git branch -d rama_x		#borra la rama
